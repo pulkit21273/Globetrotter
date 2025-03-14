@@ -1,0 +1,1282 @@
+[
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "This city is known for its vibrant cuisine.",
+      "This city is known for its vibrant art scene."
+    ],
+    "fun_fact": [
+      "Did you know? the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "One interesting trivia: This city has hosted the Olympics multiple times.",
+      "Did you know? It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Madrid",
+    "country": "Spain",
+    "clues": [
+      "This city is famous for its Burj Khalifa.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "Did you know? it was founded over 1000 years ago!",
+      "Did you know? it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "A must-visit place here is the royal palace.",
+      "This city is known for its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "A surprising fact: locals have a special celebration for the New Year.",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Did you know? Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that the city experiences all four seasons distinctly.",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Did you know? This city has hosted the Olympics multiple times.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "This city is famous for its Burj Khalifa.",
+      "A must-visit place here is the ancient ruins."
+    ],
+    "fun_fact": [
+      "Did you know? its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "One interesting trivia: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "This city is known for its vibrant nightlife.",
+      "It is home to a historic ancient temple."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was once the capital of an ancient empire.",
+      "A surprising fact: its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Did you know? This city has hosted the Olympics multiple times.",
+      "One interesting trivia: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "This city is famous for its Eiffel Tower.",
+      "A must-visit place here is the famous street market."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "A surprising fact: it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: It has more bridges than Venice.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "It is home to a historic heritage district.",
+      "This city is known for its vibrant music festivals."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was founded over 1000 years ago!",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Brussels",
+    "country": "Belgium",
+    "clues": [
+      "A must-visit place here is the famous street market.",
+      "This city is known for its vibrant cuisine."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "A surprising fact: its subway system is one of the busiest in the world.",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "This city is known for its vibrant cuisine.",
+      "It is home to a historic old fortress."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that the city experiences all four seasons distinctly.",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: It has more bridges than Venice.",
+      "Fun fact about this city: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Warsaw",
+    "country": "Poland",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "This city is known for its vibrant cuisine."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that locals have a special celebration for the New Year.",
+      "Many people don\u2019t know that the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "It is home to a historic medieval castle."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Did you know? Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "A must-visit place here is the royal palace.",
+      "This city is famous for its Colosseum."
+    ],
+    "fun_fact": [
+      "Did you know? its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was founded over 1000 years ago!",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "A must-visit place here is the royal palace.",
+      "A must-visit place here is the ancient ruins."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "Many people don\u2019t know that the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Zurich",
+    "country": "Switzerland",
+    "clues": [
+      "A must-visit place here is the modern skyline.",
+      "A must-visit place here is the famous street market."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was once the capital of an ancient empire.",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "clues": [
+      "This city is famous for its Big Ben.",
+      "A must-visit place here is the ancient ruins."
+    ],
+    "fun_fact": [
+      "Did you know? its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "clues": [
+      "This city is famous for its Great Wall.",
+      "A must-visit place here is the beautiful beaches."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was once the capital of an ancient empire.",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "One interesting trivia: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "It is home to a historic old fortress.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Beijing",
+    "country": "China",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "A must-visit place here is the beautiful beaches."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was once the capital of an ancient empire.",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "A must-visit place here is the ancient ruins."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Fun fact about this city: The city's name means 'place of peace'.",
+      "Did you know? It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Hong Kong",
+    "country": "China",
+    "clues": [
+      "A must-visit place here is the famous street market.",
+      "This city is famous for its Big Ben."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was once the capital of an ancient empire.",
+      "A surprising fact: it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "This city is famous for its Big Ben.",
+      "This city is known for its vibrant music festivals."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was once the capital of an ancient empire.",
+      "A surprising fact: its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: The city's name means 'place of peace'.",
+      "Did you know? It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "New Delhi",
+    "country": "India",
+    "clues": [
+      "This city is famous for its Sydney Opera House.",
+      "This city is famous for its Big Ben."
+    ],
+    "fun_fact": [
+      "A surprising fact: locals have a special celebration for the New Year.",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "A must-visit place here is the ancient ruins.",
+      "It is home to a historic ancient temple."
+    ],
+    "fun_fact": [
+      "A surprising fact: the city experiences all four seasons distinctly.",
+      "Did you know? it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: The city's name means 'place of peace'.",
+      "One interesting trivia: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "A must-visit place here is the famous street market.",
+      "This city is known for its vibrant art scene."
+    ],
+    "fun_fact": [
+      "A surprising fact: locals have a special celebration for the New Year.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: The city's name means 'place of peace'.",
+      "Did you know? Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "A must-visit place here is the modern skyline.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "Did you know? its subway system is one of the busiest in the world.",
+      "A surprising fact: locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "This city is famous for its Colosseum.",
+      "A must-visit place here is the beautiful beaches."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "This city is famous for its Great Wall."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was once the capital of an ancient empire.",
+      "A surprising fact: its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "This city is known for its vibrant art scene.",
+      "It is home to a historic ancient temple."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that locals have a special celebration for the New Year.",
+      "A surprising fact: it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Did you know? This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "A must-visit place here is the modern skyline.",
+      "It is home to a historic ancient temple."
+    ],
+    "fun_fact": [
+      "Did you know? it was founded over 1000 years ago!",
+      "A surprising fact: locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Abu Dhabi",
+    "country": "UAE",
+    "clues": [
+      "This city is famous for its Great Wall.",
+      "It is home to a historic heritage district."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "clues": [
+      "This city is known for its vibrant nightlife.",
+      "A must-visit place here is the royal palace."
+    ],
+    "fun_fact": [
+      "Did you know? the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Doha",
+    "country": "Qatar",
+    "clues": [
+      "This city is known for its vibrant traditional dances.",
+      "It is home to a historic heritage district."
+    ],
+    "fun_fact": [
+      "Did you know? locals have a special celebration for the New Year.",
+      "A surprising fact: locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Did you know? This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "clues": [
+      "This city is known for its vibrant art scene.",
+      "It is home to a historic medieval castle."
+    ],
+    "fun_fact": [
+      "A surprising fact: locals have a special celebration for the New Year.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "It is home to a historic ancient temple."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that locals have a special celebration for the New Year.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: The city's name means 'place of peace'.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "This city is famous for its Big Ben.",
+      "It is home to a historic heritage district."
+    ],
+    "fun_fact": [
+      "A surprising fact: its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? The city's name means 'place of peace'.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "clues": [
+      "This city is known for its vibrant music festivals.",
+      "This city is known for its vibrant traditional dances."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "A surprising fact: it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "This city is famous for its Burj Khalifa.",
+      "This city is known for its vibrant traditional dances."
+    ],
+    "fun_fact": [
+      "Did you know? its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "clues": [
+      "A must-visit place here is the famous street market.",
+      "It is home to a historic medieval castle."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that its subway system is one of the busiest in the world.",
+      "Did you know? the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Did you know? This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Accra",
+    "country": "Ghana",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "It is home to a historic old fortress."
+    ],
+    "fun_fact": [
+      "Did you know? the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "This city is known for its vibrant traditional dances."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was once the capital of an ancient empire.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? The city's name means 'place of peace'.",
+      "Did you know? This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "A must-visit place here is the royal palace."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: It has more bridges than Venice.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "This city is famous for its Colosseum.",
+      "This city is famous for its Burj Khalifa."
+    ],
+    "fun_fact": [
+      "A surprising fact: locals have a special celebration for the New Year.",
+      "A surprising fact: it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "A must-visit place here is the ancient ruins.",
+      "A must-visit place here is the beautiful beaches."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Bogot\u00e1",
+    "country": "Colombia",
+    "clues": [
+      "This city is famous for its Great Wall.",
+      "This city is famous for its Colosseum."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was founded over 1000 years ago!",
+      "A surprising fact: locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Caracas",
+    "country": "Venezuela",
+    "clues": [
+      "A must-visit place here is the beautiful beaches.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "A surprising fact: the city experiences all four seasons distinctly.",
+      "A surprising fact: its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "A must-visit place here is the royal palace.",
+      "This city is famous for its Sydney Opera House."
+    ],
+    "fun_fact": [
+      "A surprising fact: the city experiences all four seasons distinctly.",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Havana",
+    "country": "Cuba",
+    "clues": [
+      "This city is famous for its Eiffel Tower.",
+      "This city is known for its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "Did you know? locals have a special celebration for the New Year.",
+      "Many people don\u2019t know that it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its vibrant art scene.",
+      "A must-visit place here is the royal palace."
+    ],
+    "fun_fact": [
+      "Did you know? locals have a special celebration for the New Year.",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "This city is known for its vibrant traditional dances.",
+      "This city is known for its vibrant art scene."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Los Angeles",
+    "country": "USA",
+    "clues": [
+      "A must-visit place here is the royal palace.",
+      "This city is famous for its Great Wall."
+    ],
+    "fun_fact": [
+      "A surprising fact: its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its Burj Khalifa.",
+      "It is home to a historic medieval castle."
+    ],
+    "fun_fact": [
+      "Did you know? its subway system is one of the busiest in the world.",
+      "A surprising fact: its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Did you know? Its local dish is world-famous and enjoyed globally.",
+      "Did you know? Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "clues": [
+      "This city is famous for its Great Wall.",
+      "This city is known for its vibrant nightlife."
+    ],
+    "fun_fact": [
+      "A surprising fact: its subway system is one of the busiest in the world.",
+      "Did you know? locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Washington D.C.",
+    "country": "USA",
+    "clues": [
+      "A must-visit place here is the ancient ruins.",
+      "This city is famous for its Burj Khalifa."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that the city experiences all four seasons distinctly.",
+      "Did you know? locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Fun fact about this city: The city's name means 'place of peace'.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Miami",
+    "country": "USA",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "This city is famous for its Sydney Opera House."
+    ],
+    "fun_fact": [
+      "A surprising fact: its subway system is one of the busiest in the world.",
+      "Many people don\u2019t know that its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: It has more bridges than Venice.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Seattle",
+    "country": "USA",
+    "clues": [
+      "A must-visit place here is the ancient ruins.",
+      "A must-visit place here is the royal palace."
+    ],
+    "fun_fact": [
+      "Did you know? it was founded over 1000 years ago!",
+      "Did you know? locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "One interesting trivia: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Boston",
+    "country": "USA",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "This city is known for its vibrant traditional dances."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was founded over 1000 years ago!",
+      "Many people don\u2019t know that the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "One interesting trivia: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Las Vegas",
+    "country": "USA",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "This city is famous for its Eiffel Tower."
+    ],
+    "fun_fact": [
+      "Did you know? locals have a special celebration for the New Year.",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Did you know? Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Honolulu",
+    "country": "USA",
+    "clues": [
+      "A must-visit place here is the ancient ruins.",
+      "A must-visit place here is the modern skyline."
+    ],
+    "fun_fact": [
+      "A surprising fact: locals have a special celebration for the New Year.",
+      "A surprising fact: it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "This city is famous for its Eiffel Tower.",
+      "This city is known for its vibrant traditional dances."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was once the capital of an ancient empire.",
+      "A surprising fact: it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "One interesting trivia: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Melbourne",
+    "country": "Australia",
+    "clues": [
+      "A must-visit place here is the famous street market.",
+      "This city is famous for its Sydney Opera House."
+    ],
+    "fun_fact": [
+      "A surprising fact: the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Did you know? This city has hosted the Olympics multiple times.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "This city is known for its vibrant nightlife.",
+      "This city is famous for its Great Wall."
+    ],
+    "fun_fact": [
+      "A surprising fact: the city experiences all four seasons distinctly.",
+      "A surprising fact: it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "One interesting trivia: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "clues": [
+      "It is home to a historic heritage district.",
+      "This city is famous for its Big Ben."
+    ],
+    "fun_fact": [
+      "A surprising fact: the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Suva",
+    "country": "Fiji",
+    "clues": [
+      "This city is known for its vibrant nightlife.",
+      "A must-visit place here is the royal palace."
+    ],
+    "fun_fact": [
+      "A surprising fact: its subway system is one of the busiest in the world.",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "It is home to a historic medieval castle.",
+      "It is home to a historic old fortress."
+    ],
+    "fun_fact": [
+      "Did you know? it was once the capital of an ancient empire.",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "One interesting trivia: The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Moscow",
+    "country": "Russia",
+    "clues": [
+      "A must-visit place here is the ancient ruins.",
+      "This city is famous for its Colosseum."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was founded over 1000 years ago!",
+      "Did you know? the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "St. Petersburg",
+    "country": "Russia",
+    "clues": [
+      "It is home to a historic old fortress.",
+      "This city is famous for its Eiffel Tower."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was founded over 1000 years ago!",
+      "Many people don\u2019t know that locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Kiev",
+    "country": "Ukraine",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "A must-visit place here is the beautiful beaches."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that locals have a special celebration for the New Year.",
+      "Did you know? it was founded over 1000 years ago!"
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "Did you know? It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Bucharest",
+    "country": "Romania",
+    "clues": [
+      "A must-visit place here is the famous street market.",
+      "It is home to a historic medieval castle."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that the city experiences all four seasons distinctly.",
+      "Many people don\u2019t know that its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: This city has hosted the Olympics multiple times.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Sofia",
+    "country": "Bulgaria",
+    "clues": [
+      "It is home to a historic ancient temple.",
+      "A must-visit place here is the royal palace."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was founded over 1000 years ago!",
+      "Did you know? its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Belgrade",
+    "country": "Serbia",
+    "clues": [
+      "It is home to a historic old fortress.",
+      "This city is famous for its Sydney Opera House."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that locals have a special celebration for the New Year.",
+      "A surprising fact: its subway system is one of the busiest in the world."
+    ],
+    "trivia": [
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally.",
+      "Fun fact about this city: Its local dish is world-famous and enjoyed globally."
+    ]
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "clues": [
+      "This city is famous for its Colosseum.",
+      "This city is famous for its Eiffel Tower."
+    ],
+    "fun_fact": [
+      "Did you know? it was founded over 1000 years ago!",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Yerevan",
+    "country": "Armenia",
+    "clues": [
+      "This city is known for its vibrant traditional dances.",
+      "It is home to a historic heritage district."
+    ],
+    "fun_fact": [
+      "Did you know? the city experiences all four seasons distinctly.",
+      "A surprising fact: locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "Did you know? It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Tehran",
+    "country": "Iran",
+    "clues": [
+      "It is home to a historic old fortress.",
+      "This city is famous for its Big Ben."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that it was once the capital of an ancient empire.",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "One interesting trivia: It has more bridges than Venice.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Baghdad",
+    "country": "Iraq",
+    "clues": [
+      "This city is known for its vibrant cuisine.",
+      "This city is known for its vibrant cuisine."
+    ],
+    "fun_fact": [
+      "Many people don\u2019t know that its subway system is one of the busiest in the world.",
+      "A surprising fact: it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "Did you know? This city has hosted the Olympics multiple times.",
+      "Fun fact about this city: This city has hosted the Olympics multiple times."
+    ]
+  },
+  {
+    "city": "Kuwait City",
+    "country": "Kuwait",
+    "clues": [
+      "This city is known for its vibrant cuisine.",
+      "This city is famous for its Colosseum."
+    ],
+    "fun_fact": [
+      "A surprising fact: it was founded over 1000 years ago!",
+      "A surprising fact: the city experiences all four seasons distinctly."
+    ],
+    "trivia": [
+      "Did you know? It has more bridges than Venice.",
+      "Did you know? The city's name means 'place of peace'."
+    ]
+  },
+  {
+    "city": "Manama",
+    "country": "Bahrain",
+    "clues": [
+      "This city is known for its vibrant nightlife.",
+      "This city is known for its vibrant cuisine."
+    ],
+    "fun_fact": [
+      "Did you know? locals have a special celebration for the New Year.",
+      "Did you know? it was once the capital of an ancient empire."
+    ],
+    "trivia": [
+      "One interesting trivia: The city's name means 'place of peace'.",
+      "One interesting trivia: It has more bridges than Venice."
+    ]
+  },
+  {
+    "city": "Muscat",
+    "country": "Oman",
+    "clues": [
+      "This city is known for its vibrant traditional dances.",
+      "It is home to a historic ancient temple."
+    ],
+    "fun_fact": [
+      "Did you know? the city experiences all four seasons distinctly.",
+      "A surprising fact: locals have a special celebration for the New Year."
+    ],
+    "trivia": [
+      "Did you know? This city has hosted the Olympics multiple times.",
+      "One interesting trivia: Its local dish is world-famous and enjoyed globally."
+    ]
+  }
+]
