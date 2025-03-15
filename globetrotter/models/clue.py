@@ -5,5 +5,5 @@ class Clue(Base):
     __tablename__ = "clues"
 
     id = Column(Integer, primary_key=True, autoincrement=True)
-    destination_id = Column(Integer, ForeignKey("destinations.id"), nullable=False)
+    destination_id = Column(Integer, ForeignKey("destinations.id", ondelete="CASCADE"), nullable=False)
     text = Column(String, nullable=False)

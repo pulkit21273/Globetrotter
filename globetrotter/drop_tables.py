@@ -5,7 +5,7 @@ from models.clue import Clue
 from models.funfact import FunFact  
 from models.trivia import Trivia 
 
-# Create all tables in the database
-Base.metadata.create_all(engine, tables=[User.__table__])
 
-print("All database tables created successfully!")
+Base.metadata.drop_all(engine, tables=[User.__table__])
+
+print("Tables dropped successfully")

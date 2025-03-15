@@ -1,4 +1,4 @@
-from sqlalchemy import Column, Integer, String, JSON
+from sqlalchemy import Column, Integer, String, ARRAY
 from sqlalchemy.orm import validates
 from database.db import Base
 
@@ -12,7 +12,7 @@ class User(Base):
     incorrect_answers = Column(Integer, default=0)
     score = Column(Integer, default=0)
 
-    friends = Column(JSON, default=[])
+    friends = Column(ARRAY(Integer), default=[])
 
     @validates("correct_answers", "incorrect_answers")
     def update_score(self, key, value):

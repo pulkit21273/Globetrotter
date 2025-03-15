@@ -1,9 +1,8 @@
 from sqlalchemy import create_engine
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
+from config import DATABASE_URL
 
-
-DATABASE_URL = "postgresql://postgres:localdb@localhost:5434/globetrotter"
 
 engine = create_engine(DATABASE_URL)
 
