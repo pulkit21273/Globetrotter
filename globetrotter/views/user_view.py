@@ -1,4 +1,4 @@
-from sanic import Blueprint
+from sanic import Blueprint, response
 from sanic.response import json
 from models import User
 from controllers import UserController
@@ -6,6 +6,15 @@ from payload_validators import CreateUserPayload, GetUserPayload, AddFriendPaylo
 from decorators import handle_exceptions
 
 user_bp = Blueprint('user_bp', url_prefix='/users')
+
+@user_bp.options("/create_user")
+async def handle_options(request):
+    headers = {
+        "Access-Control-Allow-Origin": "*",
+        "Access-Control-Allow-Methods": "GET, POST, OPTIONS",
+        "Access-Control-Allow-Headers": "Content-Type, Authorization",
+    }
+    return response.empty(headers=headers)
 
 
 @user_bp.route('/create_user', methods=['POST'])
