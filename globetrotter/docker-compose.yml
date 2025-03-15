@@ -1,0 +1,21 @@
+services:
+  globetrotter-db:
+    container_name: globetrotter-db
+    image: postgres:latest
+    restart: always
+    ports:
+      - "5434:5432"
+    environment:
+      POSTGRES_DB: globetrotter
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: localdb
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready", "-U", "postgres", "-d","globetrotter"]
+      interval: 3s
+      timeout: 3s
+      retries: 5
+    volumes:
+      - globetrotter_db_data:/var/lib/postgresql/data
+
+volumes:
+  globetrotter_db_data:

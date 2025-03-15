@@ -8,7 +8,7 @@ class Destination(Base):
     id = Column(Integer, primary_key=True, autoincrement=True)
     city = Column(String, nullable=False)
     country = Column(String, nullable=False)
-
+    
     # Relationships
     clues = relationship("Clue", backref="destination", cascade="all, delete-orphan")
     fun_facts = relationship("FunFact", backref="destination", cascade="all, delete-orphan")

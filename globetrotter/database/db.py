@@ -3,8 +3,7 @@ from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 
 
-DATABASE_URL = "postgresql://pulkit.nargotra:Pulkit%406006@localhost/globetrotter_db"
-
+DATABASE_URL = "postgresql://postgres:localdb@localhost:5434/globetrotter"
 
 engine = create_engine(DATABASE_URL)
 
