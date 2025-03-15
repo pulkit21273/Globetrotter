@@ -14,8 +14,8 @@ class User(Base):
 
     friends = Column(ARRAY(Integer), default=[])
 
-    @validates("correct_answers", "incorrect_answers")
-    def update_score(self, key, value):
-        setattr(self, key, value)
-        self.score = self.correct_answers - self.incorrect_answers
-        return value
+    # @validates("correct_answers", "incorrect_answers")
+    # def update_score(self, key, value):
+    #     setattr(self, key, value)
+    #     self.score = self.correct_answers - self.incorrect_answers
+    #     return value
