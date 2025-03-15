@@ -1,1602 +1,979 @@
 [
-    {
-        "city": "London",
-        "country": "United Kingdom",
-        "clues": [
-            "Home to a giant clock tower that isn\u2019t actually called Big Ben.",
-            "Features a historic palace where the monarch resides."
-        ],
-        "fun_fact": [
-            "The London Underground is the oldest metro system in the world.",
-            "Red double-decker buses were introduced in 1956."
-        ],
-        "trivia": [
-            "The River Thames has over 200 bridges.",
-            "Buckingham Palace has over 700 rooms."
-        ]
-    },
-    {
-        "city": "Rome",
-        "country": "Italy",
-        "clues": [
-            "An ancient city known for its gladiatorial arena.",
-            "Built on seven hills and home to the Vatican."
-        ],
-        "fun_fact": [
-            "Has a country within the city\u2014the Vatican, the smallest country in the world.",
-            "Trevi Fountain collects over $1 million in coins annually, which is donated to charity."
-        ],
-        "trivia": [
-            "Has more than 900 churches.",
-            "The Colosseum once held naval battles by filling it with water."
-        ]
-    },
-    {
-        "city": "Dubai",
-        "country": "UAE",
-        "clues": [
-            "Home to the tallest building in the world.",
-            "Features an artificial archipelago shaped like a palm tree."
-        ],
-        "fun_fact": [
-            "Has an indoor ski resort in the middle of the desert.",
-            "The police force includes luxury cars like Lamborghinis and Ferraris."
-        ],
-        "trivia": [
-            "The Burj Khalifa is so tall that you can watch the sunset twice\u2014once from the ground and again from the top.",
-            "ATMs here dispense gold bars."
-        ]
-    },
-    {
-        "city": "Buenos Aires",
-        "country": "Argentina",
-        "clues": [
-            "Known for tango dancing and vibrant nightlife.",
-            "The widest avenue in the world runs through this city."
-        ],
-        "fun_fact": [
-            "Home to one of the most beautiful bookstores in the world, El Ateneo Grand Splendid.",
-            "The city has the most bookstores per capita in the world."
-        ],
-        "trivia": [
-            "The Obelisk is one of the most iconic landmarks.",
-            "The name means 'Fair Winds' in Spanish."
-        ]
-    },
-    {
-        "city": "Cape Town",
-        "country": "South Africa",
-        "clues": [
-            "Features a flat-topped mountain offering stunning views.",
-            "Home to a prison where Nelson Mandela was once held."
-        ],
-        "fun_fact": [
-            "One of the only places in the world where you can see penguins on the beach.",
-            "Robben Island is a UNESCO World Heritage Site."
-        ],
-        "trivia": [
-            "Table Mountain has more plant species than the entire UK.",
-            "The city was the first in South Africa to host the FIFA World Cup."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    },
-    {
-        "city": "Mexico City",
-        "country": "Mexico",
-        "clues": [
-            "Built on top of a former Aztec capital.",
-            "Sinks several inches each year due to its soft ground."
-        ],
-        "fun_fact": [
-            "Has the most museums in the world after London and Paris.",
-            "The largest plaza in Latin America is here."
-        ],
-        "trivia": [
-            "Chocolate originated from ancient Mesoamerican cultures here.",
-            "It was once known as Tenochtitl\u00e1n."
-        ]
-    },
-    {
-        "city": "Barcelona",
-        "country": "Spain",
-        "clues": [
-            "Home to a famous unfinished basilica.",
-            "Hosted the 1992 Summer Olympics."
-        ],
-        "fun_fact": [
-            "The city was planned with octagonal blocks for better airflow.",
-            "Gaudi's Sagrada Familia is still under construction."
-        ],
-        "trivia": [
-            "Has more than 20 Michelin-starred restaurants.",
-            "Park G\u00fcell was originally meant to be a housing development."
-        ]
-    },
-    {
-        "city": "Seoul",
-        "country": "South Korea",
-        "clues": [
-            "Capital of K-pop and modern technology.",
-            "Has one of the fastest internet speeds in the world."
-        ],
-        "fun_fact": [
-            "The city blends ancient palaces with futuristic skyscrapers.",
-            "Kimchi is a staple food here."
-        ],
-        "trivia": [
-            "Hosts a lantern festival every year.",
-            "Gangnam district became famous worldwide due to a viral song."
-        ]
-    }
+  {
+    "city": "Rome",
+    "country": "Italy",
+    "clues": [
+      "This city’s ancient arena hosted gladiatorial games.",
+      "Home to a tiny independent nation within its borders."
+    ],
+    "fun_fact": [
+      "The city has a dedicated “cat sanctuary” among ancient ruins.",
+      "Its symbol, the she-wolf nursing twins, dates back to 5th-century BC legends."
+    ],
+    "trivia": [
+      "The phrase ‘SPQR’ is emblazoned on manhole covers here.",
+      "Legend claims its founders were raised by a wolf."
+    ]
+  },
+  {
+    "city": "Cape Town",
+    "country": "South Africa",
+    "clues": [
+      "A flat-topped mountain dominates its skyline.",
+      "Nearby penguin colonies waddle on beaches."
+    ],
+    "fun_fact": [
+      "The only city to have a street address for both Nelson Mandela and Desmond Tutu.",
+      "Its botanical garden is a UNESCO World Heritage Site."
+    ],
+    "trivia": [
+      "The local stadium hosted the 2010 FIFA World Cup final.",
+      "A historic prison here once held a Nobel Peace Prize winner."
+    ]
+  },
+  {
+    "city": "Dubai",
+    "country": "UAE",
+    "clues": [
+      "Home to the world’s tallest building and artificial archipelago.",
+      "A desert city with indoor ski slopes."
+    ],
+    "fun_fact": [
+      "Police here patrol in luxury supercars.",
+      "The city has a museum shaped like a traditional wind-tower house."
+    ],
+    "trivia": [
+      "Gold vending machines are common in its malls.",
+      "Its metro system is fully automated and driverless."
+    ]
+  },
+  {
+    "city": "Rio de Janeiro",
+    "country": "Brazil",
+    "clues": [
+      "A massive statue of Christ overlooks this coastal city.",
+      "Hosts the world’s largest Carnival celebration."
+    ],
+    "fun_fact": [
+      "Its New Year’s Eve beach party attracts 2 million attendees.",
+      "The iconic sidewalk pattern along Copacabana was inspired by Lisbon."
+    ],
+    "trivia": [
+      "The local stadium hosted two FIFA World Cup finals.",
+      "Its name translates to ‘River of January’ in Portuguese."
+    ]
+  },
+  {
+    "city": "Sydney",
+    "country": "Australia",
+    "clues": [
+      "Its opera house resembles seashells or sails.",
+      "A harbor bridge here is nicknamed ‘The Coathanger’."
+    ],
+    "fun_fact": [
+      "The city’s New Year’s Eve fireworks are among the first globally.",
+      "Its zoo is the only place outside China with giant pandas."
+    ],
+    "trivia": [
+      "The local fish market is the largest in the Southern Hemisphere.",
+      "A famous beach here shares its name with a Bondi subculture."
+    ]
+  },
+  {
+    "city": "Barcelona",
+    "country": "Spain",
+    "clues": [
+      "Famous for a basilica that’s been under construction for 140+ years.",
+      "A park here features mosaic-covered lizard sculptures."
+    ],
+    "fun_fact": [
+      "The city banned bullfighting in 2010.",
+      "Its soccer stadium is Europe’s largest by capacity."
+    ],
+    "trivia": [
+      "A street here is said to be inspired by a dragon’s spine.",
+      "Its most famous street performer zone shares a name with a type of dance."
+    ]
+  },
+  {
+    "city": "Kyoto",
+    "country": "Japan",
+    "clues": [
+      "Once Japan’s capital, with 2,000+ temples and shrines.",
+      "Famous for geisha culture and cherry blossom viewing."
+    ],
+    "fun_fact": [
+      "The local bamboo forest has pathways that glow at night.",
+      "Its traditional tea ceremonies last up to four hours."
+    ],
+    "trivia": [
+      "A shrine here is dedicated to foxes.",
+      "The city’s name means ‘Capital City’ in Japanese."
+    ]
+  },
+  {
+    "city": "Marrakech",
+    "country": "Morocco",
+    "clues": [
+      "A bustling square here is filled with snake charmers and storytellers.",
+      "Known for red-pink buildings and luxury desert resorts."
+    ],
+    "fun_fact": [
+      "The world’s largest traditional market (souk) is here.",
+      "Its gardens were designed by Yves Saint Laurent."
+    ],
+    "trivia": [
+      "A famous hotel here inspired a Beatles song.",
+      "The local university is the oldest continuously operating in the world."
+    ]
+  },
+  {
+    "city": "Toronto",
+    "country": "Canada",
+    "clues": [
+      "Home to a towering communications spire with a glass floor.",
+      "A major film festival here rivals Cannes."
+    ],
+    "fun_fact": [
+      "The city has a museum shaped like a crystal.",
+      "Its underground PATH system is the largest shopping concourse globally."
+    ],
+    "trivia": [
+      "A local stadium has a retractable roof that opens in 20 minutes.",
+      "The city’s name comes from a Mohawk word meaning ‘meeting place’."
+    ]
+  },
+  {
+    "city": "Singapore",
+    "country": "Singapore",
+    "clues": [
+      "A futuristic garden here features Supertree structures.",
+      "Chewing gum sales are banned except for medical use."
+    ],
+    "fun_fact": [
+      "The city-state has a hotel with a rooftop infinity pool overlooking the skyline.",
+      "Its airport has a butterfly garden and movie theater."
+    ],
+    "trivia": [
+      "The national dish is chili crab, served with mantou buns.",
+      "A merlion statue here spouts water from its mouth."
+    ]
+  },
+  {
+    "city": "Istanbul",
+    "country": "Turkey",
+    "clues": [
+      "The only city spanning two continents: Europe and Asia.",
+      "Home to a former Byzantine church turned mosque turned museum."
+    ],
+    "fun_fact": [
+      "Its Grand Bazaar has 4,000 shops across 61 streets.",
+      "The local subway is the second-oldest in the world."
+    ],
+    "trivia": [
+      "A famous dessert here is made with shredded dough and syrup.",
+      "The city’s name comes from a Greek phrase meaning ‘to the city’."
+    ]
+  },
+  {
+    "city": "Reykjavik",
+    "country": "Iceland",
+    "clues": [
+      "The northernmost capital city in the world.",
+      "Nearby geothermal spas have milky-blue waters."
+    ],
+    "fun_fact": [
+      "The city uses geothermal energy to heat its sidewalks.",
+      "Its hot dog stand was visited by a U.S. president."
+    ],
+    "trivia": [
+      "A local museum displays a 1,000-year-old Viking longship.",
+      "The city’s name means ‘Smoky Bay’ in Old Norse."
+    ]
+  },
+  {
+    "city": "Hanoi",
+    "country": "Vietnam",
+    "clues": [
+      "A chaotic Old Quarter here has streets named after traditional crafts.",
+      "Famous for egg coffee and pho noodle soup."
+    ],
+    "fun_fact": [
+      "A temple here honors a golden turtle deity.",
+      "Its railway track runs inches from residential doorways."
+    ],
+    "trivia": [
+      "The city’s name means ‘Between Two Rivers’ in Vietnamese.",
+      "A lake here is home to a rare giant softshell turtle."
+    ]
+  },
+  {
+    "city": "Vancouver",
+    "country": "Canada",
+    "clues": [
+      "Surrounded by mountains and Pacific Ocean beaches.",
+      "Hosted the Winter Olympics in 2010."
+    ],
+    "fun_fact": [
+      "The city has the largest Chinatown in Canada.",
+      "Its Stanley Park is 10% larger than New York’s Central Park."
+    ],
+    "trivia": [
+      "A local market sells 50+ types of honey.",
+      "The city’s film industry is nicknamed ‘Hollywood North’."
+    ]
+  },
+  {
+    "city": "Cairo",
+    "country": "Egypt",
+    "clues": [
+      "Near ancient pyramids and a giant Sphinx statue.",
+      "The Nile River flows through this bustling metropolis."
+    ],
+    "fun_fact": [
+      "The city’s traffic is so chaotic that drivers often ignore lanes.",
+      "Its Khan El Khalili bazaar has operated since the 14th century."
+    ],
+    "trivia": [
+      "A museum here displays King Tutankhamun’s golden mask.",
+      "The city’s name means ‘The Vanquisher’ in Arabic."
+    ]
+  },
+  {
+    "city": "Amsterdam",
+    "country": "Netherlands",
+    "clues": [
+      "A city with more canals than Venice and a museum dedicated to a famous severed ear.",
+      "Known for its narrow, tilted houses and liberal coffee shop policies."
+    ],
+    "fun_fact": [
+      "The city has over 1.2 million bicycles—more than its human population!",
+      "Its airport sits 4 meters below sea level."
+    ],
+    "trivia": [
+      "A famous diary written here during WWII is now a global symbol of resilience.",
+      "The local flower market floats on barges."
+    ]
+  },
+  {
+    "city": "Seoul",
+    "country": "South Korea",
+    "clues": [
+      "A futuristic district here is lit by giant LED roses at night.",
+      "Home to a historic palace destroyed and rebuilt multiple times."
+    ],
+    "fun_fact": [
+      "The city’s subway system has free Wi-Fi and heated seats.",
+      "A local mountain offers hiking trails with views of the DMZ."
+    ],
+    "trivia": [
+      "A street here is dedicated to handmade leather shoes.",
+      "Its most iconic dish involves fermented cabbage and chili paste."
+    ]
+  },
+  {
+    "city": "Mexico City",
+    "country": "Mexico",
+    "clues": [
+      "Built on a lake, this city sinks several centimeters yearly.",
+      "A massive mural here depicts the evolution of humanity."
+    ],
+    "fun_fact": [
+      "The city has the most museums in the Americas.",
+      "Its main square is built atop the Aztec capital of Tenochtitlán."
+    ],
+    "trivia": [
+      "A floating garden system here predates the Spanish conquest.",
+      "Local markets sell edible insects as snacks."
+    ]
+  },
+  {
+    "city": "Vienna",
+    "country": "Austria",
+    "clues": [
+      "A palace here houses the world’s oldest zoo.",
+      "Famous for its coffeehouse culture and imperial-era desserts."
+    ],
+    "fun_fact": [
+      "The city’s sewers inspired a famous opera set.",
+      "Its Ferris wheel was featured in a Cold War spy film."
+    ],
+    "trivia": [
+      "A golden statue here holds a spear said to kill dragons.",
+      "The local cemetery has more graves than the city has living residents."
+    ]
+  },
+  {
+    "city": "Bangkok",
+    "country": "Thailand",
+    "clues": [
+      "A temple here houses a reclining gold-plated Buddha.",
+      "Known for tuk-tuks, floating markets, and ladyboy cabarets."
+    ],
+    "fun_fact": [
+      "The city’s full ceremonial name is 169 letters long.",
+      "Its airport has a rooftop pool for travelers."
+    ],
+    "trivia": [
+      "A street here is named after a 19th-century horse race.",
+      "The local train passes through a bustling market’s aisles."
+    ]
+  },
+  {
+    "city": "Chicago",
+    "country": "USA",
+    "clues": [
+      "A towering skyscraper here has a glass ledge extending 4 feet outward.",
+      "Known for deep-dish pizza and a river dyed green annually."
+    ],
+    "fun_fact": [
+      "The city invented the brownie dessert for the 1893 World’s Fair.",
+      "Its nickname comes from a rivalry with New York over hog processing."
+    ],
+    "trivia": [
+      "A museum here displays the only surviving dinosaur fossil found with skin.",
+      "The local blues music scene inspired a famous guitar style."
+    ]
+  },
+  {
+    "city": "Nairobi",
+    "country": "Kenya",
+    "clues": [
+      "The only city with a national park within its limits.",
+      "Home to a giraffe center where you can feed endangered species."
+    ],
+    "fun_fact": [
+      "The city’s name means ‘cool water’ in the Maasai language.",
+      "Its railway museum displays locomotives from the ‘Lunatic Express’."
+    ],
+    "trivia": [
+      "A nearby valley holds fossils of early human ancestors.",
+      "The local coffee is often served with roasted goat meat."
+    ]
+  },
+  {
+    "city": "Oslo",
+    "country": "Norway",
+    "clues": [
+      "A museum here houses well-preserved Viking ships.",
+      "Famous for a ski jump offering panoramic city views."
+    ],
+    "fun_fact": [
+      "The Nobel Peace Prize is awarded here annually.",
+      "The city’s opera house roof slopes into the fjord."
+    ],
+    "trivia": [
+      "A park here has over 200 sculptures of naked people.",
+      "The local fortress has never been captured by invaders."
+    ]
+  },
+  {
+    "city": "Buenos Aires",
+    "country": "Argentina",
+    "clues": [
+      "A cemetery here is filled with ornate mausoleums and stray cats.",
+      "Known for sultry dance halls and steak so tender it melts."
+    ],
+    "fun_fact": [
+      "The city has a bookstore built inside a grand theater.",
+      "Its subway system was the first in Latin America."
+    ],
+    "trivia": [
+      "A street here changes its name to honor a revolutionary figure every July.",
+      "The local slang for money translates to ‘little worms’."
+    ]
+  },
+  {
+    "city": "Prague",
+    "country": "Czech Republic",
+    "clues": [
+      "A medieval clock here performs an hourly ‘Death and the Apostles’ show.",
+      "A historic bridge lined with statues connects its old and new towns."
+    ],
+    "fun_fact": [
+      "The city’s castle is the largest ancient castle complex in the world.",
+      "Its beer culture includes a pub that brews its own since 1457."
+    ],
+    "trivia": [
+      "A hilltop tower here offers mirror maze illusions.",
+      "The local dumplings are often served with roast pork."
+    ]
+  },
+  {
+    "city": "Auckland",
+    "country": "New Zealand",
+    "clues": [
+      "A dormant volcano in the city center offers 360-degree harbor views.",
+      "Known as the ‘City of Sails’ for its yacht-filled harbor."
+    ],
+    "fun_fact": [
+      "The city has more boats per capita than anywhere else.",
+      "Its Sky Tower has a base jump platform for thrill-seekers."
+    ],
+    "trivia": [
+      "A nearby rainforest is just 30 minutes from downtown.",
+      "The local Māori name means ‘land of a thousand lovers’."
+    ]
+  },
+  {
+    "city": "Mumbai",
+    "country": "India",
+    "clues": [
+      "A historic train station here is a UNESCO World Heritage Site.",
+      "Home to the world’s most expensive private residence."
+    ],
+    "fun_fact": [
+      "The city’s laundromat washes clothes for 80% of its population.",
+      "Its film industry produces over 1,000 movies annually."
+    ],
+    "trivia": [
+      "A coastal road here is named after a British queen.",
+      "The local street food includes crispy potato patties."
+    ]
+  },
+  {
+    "city": "Athens",
+    "country": "Greece",
+    "clues": [
+      "A hilltop temple here honors the goddess of wisdom and war.",
+      "The birthplace of democracy and Western philosophy."
+    ],
+    "fun_fact": [
+      "The city’s metro system doubles as an archaeological museum.",
+      "Its iconic marble stadium hosted the first modern Olympics."
+    ],
+    "trivia": [
+      "A rocky hill here offers sunset views over the Aegean Sea.",
+      "The local street cats are considered unofficial mascots."
+    ]
+  },
+  {
+    "city": "Edinburgh",
+    "country": "Scotland",
+    "clues": [
+      "A castle atop an extinct volcano dominates the skyline.",
+      "Hosts a massive arts festival that transforms the city into a stage."
+    ],
+    "fun_fact": [
+      "The city’s underground vaults were once slums and smuggling dens.",
+      "Its university inspired the fictional Hogwarts sorting hat."
+    ],
+    "trivia": [
+      "A dog statue here is a popular meeting spot.",
+      "The local dish ‘haggis’ is made from sheep’s organs."
+    ]
+  },
+  {
+    "city": "Lima",
+    "country": "Peru",
+    "clues": [
+      "A historic convent here has catacombs with 25,000 buried souls.",
+      "Known for ceviche and a dessert made from purple corn."
+    ],
+    "fun_fact": [
+      "The city’s fog is so thick that locals call it ‘the donkey’s belly’.",
+      "Its surfing spots attract international champions."
+    ],
+    "trivia": [
+      "A park here displays love poems on park benches.",
+      "The local cocktail uses a frothy egg white topping."
+    ]
+  },
+  {
+    "city": "Berlin",
+    "country": "Germany",
+    "clues": [
+      "A graffiti-covered wall remnant now serves as an open-air gallery.",
+      "Famous for techno clubs in power stations and bunkers."
+    ],
+    "fun_fact": [
+      "The city has more bridges than Venice.",
+      "Its zoo houses the world’s largest variety of species."
+    ],
+    "trivia": [
+      "A traffic light symbol here became a global pop culture icon.",
+      "The local currywurst dish was invented by a post-war cook."
+    ]
+  },
+  {
+    "city": "Budapest",
+    "country": "Hungary",
+    "clues": [
+      "A river splits this city into two historic halves, connected by a iconic iron bridge.",
+      "Famous for thermal baths housed in Art Nouveau buildings."
+    ],
+    "fun_fact": [
+      "The city’s subway system is the second oldest in the world.",
+      "Its ruin pubs are built in abandoned pre-war buildings."
+    ],
+    "trivia": [
+      "A hilltop fortress here offers panoramic views of the Danube.",
+      "The local spice of choice is paprika, used in goulash."
+    ]
+  },
+  {
+    "city": "San Francisco",
+    "country": "USA",
+    "clues": [
+      "A foggy red bridge and island prison are key landmarks here.",
+      "Known for steep, winding streets and vintage cable cars."
+    ],
+    "fun_fact": [
+      "The fortune cookie was invented in this city’s Chinatown.",
+      "Its most crooked street has eight hairpin turns."
+    ],
+    "trivia": [
+      "A former military base here is now a park with rotating art installations.",
+      "The local sourdough bread uses a 170-year-old starter."
+    ]
+  },
+  {
+    "city": "Johannesburg",
+    "country": "South Africa",
+    "clues": [
+      "A city born from gold mining, with a museum inside an old mine shaft.",
+      "Home to a township that played a pivotal role in anti-apartheid activism."
+    ],
+    "fun_fact": [
+      "The city has the largest artificial forest in the world (over 10 million trees).",
+      "Its Carlton Centre is Africa’s tallest building."
+    ],
+    "trivia": [
+      "A nearby cave system holds fossils of early hominids.",
+      "The local market sells mopane worms as snacks."
+    ]
+  },
+  {
+    "city": "Montreal",
+    "country": "Canada",
+    "clues": [
+      "A subterranean network here spans 20 miles of shops and theaters.",
+      "Famous for smoked meat sandwiches and a circus festival."
+    ],
+    "fun_fact": [
+      "The city’s Notre-Dame Basilica has a laser light show inside.",
+      "Its Formula 1 race runs through downtown streets."
+    ],
+    "trivia": [
+      "A mountain park here offers cross-country skiing in winter.",
+      "The local bagels are boiled in honey water before baking."
+    ]
+  },
+  {
+    "city": "Shanghai",
+    "country": "China",
+    "clues": [
+      "A riverside promenade here contrasts colonial architecture with futuristic skyscrapers.",
+      "Home to the world’s fastest commercial train."
+    ],
+    "fun_fact": [
+      "The city has a marriage market where parents advertise their single children.",
+      "Its aquarium tunnel is the longest underwater viewing tunnel globally."
+    ],
+    "trivia": [
+      "A silk market here sells hand-embroidered fabrics.",
+      "The local soup dumplings have a cult following."
+    ]
+  },
+  {
+    "city": "Venice",
+    "country": "Italy",
+    "clues": [
+      "A car-free city built on 118 islands, crisscrossed by canals.",
+      "Hosts a masked festival dating back to the 13th century."
+    ],
+    "fun_fact": [
+      "The city’s foundations rest on underwater wooden pillars.",
+      "Its clock tower features zodiac signs and lunar phases."
+    ],
+    "trivia": [
+      "A prison here was connected to a palace by a ‘Bridge of Sighs’.",
+      "The local rowing style uses standing oarsmen."
+    ]
+  },
+  {
+    "city": "Wellington",
+    "country": "New Zealand",
+    "clues": [
+      "The world’s southernmost capital, nestled between hills and a harbor.",
+      "Known for coffee culture and being a filming hub for fantasy epics."
+    ],
+    "fun_fact": [
+      "The city’s cable car has operated for over 120 years.",
+      "Its museum holds the original ‘Paddington Bear’ from WWII."
+    ],
+    "trivia": [
+      "A waterfront sculpture here looks like a giant polished seashell.",
+      "The local chocolate fish candy is a popular treat."
+    ]
+  },
+  {
+    "city": "Kuala Lumpur",
+    "country": "Malaysia",
+    "clues": [
+      "Twin skyscrapers here were the world’s tallest in the 1990s.",
+      "A limestone hill with Hindu temples sits just outside the city."
+    ],
+    "fun_fact": [
+      "The city’s bird park is the largest free-flight aviary in the world.",
+      "Its airport was designed to resemble a tropical rainforest."
+    ],
+    "trivia": [
+      "A market here sells durian-flavored desserts.",
+      "The local breakfast often includes coconut rice and anchovy sambal."
+    ]
+  },
+  {
+    "city": "Dublin",
+    "country": "Ireland",
+    "clues": [
+      "A brewery here offers panoramic city views from its rooftop bar.",
+      "Famous for a library holding an ancient illuminated manuscript."
+    ],
+    "fun_fact": [
+      "The city’s main street is wider than Paris’ Champs-Élysées.",
+      "Its Phoenix Park is larger than Central Park and home to wild deer."
+    ],
+    "trivia": [
+      "A bridge here is named after a famous Irish writer.",
+      "The local pub sport involves throwing small metal darts."
+    ]
+  },
+  {
+    "city": "Santiago",
+    "country": "Chile",
+    "clues": [
+      "A snow-capped Andean peak forms the backdrop to this city.",
+      "Known for street art in a bohemian quarter and copper museums."
+    ],
+    "fun_fact": [
+      "The city’s tallest building mimics a sailboat mast.",
+      "Its central market serves fresh ceviche in a wrought-iron hall."
+    ],
+    "trivia": [
+      "A hilltop park here has a funicular railway from 1925.",
+      "The national dance originated in its working-class neighborhoods."
+    ]
+  },
+  {
+    "city": "Manila",
+    "country": "Philippines",
+    "clues": [
+      "A walled colonial district contrasts with chaotic jeepney-filled streets.",
+      "Known for a shopping mall with an indoor ice-skating rink."
+    ],
+    "fun_fact": [
+      "The city’s oldest university predates Harvard by 25 years.",
+      "Its fast-food chain invented the ‘fried chicken and spaghetti’ combo."
+    ],
+    "trivia": [
+      "A church here survived earthquakes and WWII bombings.",
+      "The local ice cream flavor includes purple yam and cheese."
+    ]
+  },
+  {
+    "city": "Taipei",
+    "country": "Taiwan",
+    "clues": [
+      "A bamboo-shaped skyscraper dominates this city’s skyline.",
+      "Famous for night markets selling stinky tofu and bubble tea."
+    ],
+    "fun_fact": [
+      "The city recycles 67% of its waste—one of the highest rates globally.",
+      "Its metro stations feature themed art installations."
+    ],
+    "trivia": [
+      "A mountain hot spring resort lies just outside the city.",
+      "The local soup uses bitter melon as a key ingredient."
+    ]
+  },
+  {
+    "city": "Tel Aviv",
+    "country": "Israel",
+    "clues": [
+      "A ‘White City’ here has the world’s largest collection of Bauhaus buildings.",
+      "Mediterranean beaches sit alongside bustling flea markets."
+    ],
+    "fun_fact": [
+      "The city has over 4,000 startups—the highest density outside Silicon Valley.",
+      "Its ancient port was a major Phoenician trading hub."
+    ],
+    "trivia": [
+      "A market here sells halva in 100+ flavors.",
+      "The local breakfast includes eggs poached in tomato sauce."
+    ]
+  },
+  {
+    "city": "Colombo",
+    "country": "Sri Lanka",
+    "clues": [
+      "A historic Dutch hospital here is now a shopping and dining complex.",
+      "Known for a seaside promenade with kite-flyers and street food."
+    ],
+    "fun_fact": [
+      "The city’s name comes from a Sinhalese term meaning ‘mango harbor’.",
+      "Its independence monument is shaped like a traditional oil lamp."
+    ],
+    "trivia": [
+      "A Buddhist temple here houses a sacred bodhi tree sapling.",
+      "The local hoppers (bowl-shaped pancakes) are eaten with curry."
+    ]
+  },
+  {
+    "city": "Casablanca",
+    "country": "Morocco",
+    "clues": [
+      "A massive mosque here has a retractable roof and laser beam pointing to Mecca.",
+      "Art Deco architecture blends with traditional souks."
+    ],
+    "fun_fact": [
+      "The city’s name translates to ‘White House’ in Spanish.",
+      "Its film festival is the largest in Africa."
+    ],
+    "trivia": [
+      "A Rick’s Café here recreates the movie set from a classic film.",
+      "The local seafood tagine is cooked in clay pots."
+    ]
+  },
+  {
+    "city": "Stockholm",
+    "country": "Sweden",
+    "clues": [
+      "A city spread across 14 islands, connected by 57 bridges.",
+      "Hosts an annual award ceremony for global achievements in science and culture."
+    ],
+    "fun_fact": [
+      "The city’s metro system is dubbed ‘the world’s longest art gallery’.",
+      "A museum here houses a salvaged 17th-century warship."
+    ],
+    "trivia": [
+      "The local ice bar serves drinks in glasses made of ice.",
+      "A park here has statues inspired by Nordic folklore."
+    ]
+  },
+  {
+    "city": "Lisbon",
+    "country": "Portugal",
+    "clues": [
+      "Yellow trams climb steep hills past pastel-colored buildings.",
+      "A 16th-century tower guards the mouth of its river."
+    ],
+    "fun_fact": [
+      "The city’s oldest bookstore opened in 1732.",
+      "Its earthquake-resistant architecture inspired modern seismic engineering."
+    ],
+    "trivia": [
+      "A local pastry is filled with custard and dusted with cinnamon.",
+      "The oldest operating bookstore in the world is located here."
+    ]
+  },
+  {
+    "city": "Helsinki",
+    "country": "Finland",
+    "clues": [
+      "A UNESCO-designated fortress island sits offshore.",
+      "Known for minimalist design and a cathedral with green domes."
+    ],
+    "fun_fact": [
+      "The city hosts a world championship for air guitar performances.",
+      "Its public saunas date back to the 1920s."
+    ],
+    "trivia": [
+      "A church here was carved directly into solid rock.",
+      "The local market square sells reindeer meat in winter."
+    ]
+  },
+  {
+    "city": "Jakarta",
+    "country": "Indonesia",
+    "clues": [
+      "A towering monument symbolizes the nation’s independence.",
+      "Known for chaotic traffic and a massive Chinatown."
+    ],
+    "fun_fact": [
+      "The city sinks up to 25 cm per year due to groundwater extraction.",
+      "Its national museum displays a 4th-century Hindu statue."
+    ],
+    "trivia": [
+      "A historic port here was a hub for the spice trade.",
+      "The local coffee is brewed with coconut milk and palm sugar."
+    ]
+  },
+  {
+    "city": "Copenhagen",
+    "country": "Denmark",
+    "clues": [
+      "A bronze mermaid statue perches on a harbor rock.",
+      "Home to a car-free neighborhood with rainbow-painted houses."
+    ],
+    "fun_fact": [
+      "The city aims to become carbon-neutral by 2025.",
+      "Its amusement park is the second-oldest in the world."
+    ],
+    "trivia": [
+      "A museum here displays 19th-century fairy tale manuscripts.",
+      "The local open-faced sandwiches are a culinary staple."
+    ]
+  },
+  {
+    "city": "Lagos",
+    "country": "Nigeria",
+    "clues": [
+      "A sprawling market sells everything from spices to handwoven fabrics.",
+      "Known for vibrant Afrobeat music and Nollywood film studios."
+    ],
+    "fun_fact": [
+      "The city’s name means ‘lakes’ in Portuguese.",
+      "Its Lekki Conservation Centre has a canopy walkway over a rainforest."
+    ],
+    "trivia": [
+      "A beach here hosts weekly yoga sessions at sunrise.",
+      "The local street food includes spicy grilled plantains."
+    ]
+  },
+  {
+    "city": "Dubrovnik",
+    "country": "Croatia",
+    "clues": [
+      "Medieval walls encircle a marble-paved Old Town.",
+      "A fictional ‘King’s Landing’ was filmed here."
+    ],
+    "fun_fact": [
+      "The city’s walls have never been breached by invaders.",
+      "Its Stradun street is polished smooth by centuries of foot traffic."
+    ],
+    "trivia": [
+      "A monastery here grows ancient medicinal herbs.",
+      "The local wine is aged in oak barrels from the 15th century."
+    ]
+  },
+  {
+    "city": "Kathmandu",
+    "country": "Nepal",
+    "clues": [
+      "A sacred Hindu temple complex lies at the city’s heart.",
+      "Nearby mountains draw trekkers and spiritual seekers."
+    ],
+    "fun_fact": [
+      "The city’s name means ‘wooden temple’ in the local language.",
+      "Its Durbar Square has buildings dating to the 3rd century."
+    ],
+    "trivia": [
+      "A stupa here is adorned with Buddha’s all-seeing eyes.",
+      "The local butter tea is served with roasted barley."
+    ]
+  },
+  {
+    "city": "Valletta",
+    "country": "Malta",
+    "clues": [
+      "A fortified capital with Baroque palaces and hidden gardens.",
+      "Home to a church with a Caravaggio masterpiece."
+    ],
+    "fun_fact": [
+      "The city is one of the smallest capitals in the EU.",
+      "Its streets are designed to catch cool sea breezes."
+    ],
+    "trivia": [
+      "A WWII-era bomb shelter runs beneath the city.",
+      "The local pastry is filled with ricotta and peas."
+    ]
+  },
+  {
+    "city": "Riyadh",
+    "country": "Saudi Arabia",
+    "clues": [
+      "A sky bridge connects twin towers 99 floors above ground.",
+      "Surrounded by desert valleys and ancient archaeological sites."
+    ],
+    "fun_fact": [
+      "The city’s camel market is the largest in the world.",
+      "Its Diriyah district is a UNESCO-listed mud-brick ghost town."
+    ],
+    "trivia": [
+      "A fortress here marks the birthplace of the Saudi state.",
+      "The local coffee is spiced with cardamom and saffron."
+    ]
+  },
+  {
+    "city": "Ho Chi Minh City",
+    "country": "Vietnam",
+    "clues": [
+      "A French colonial post office stands beside skyscrapers.",
+      "Maze-like tunnels nearby played a key role in wartime history."
+    ],
+    "fun_fact": [
+      "The city’s traffic lights count down seconds for pedestrians.",
+      "Its floating markets operate before dawn."
+    ],
+    "trivia": [
+      "A noodle soup here is eaten with fresh herbs and lime.",
+      "The local egg coffee is whipped into a creamy foam."
+    ]
+  },
+  {
+    "city": "Luxembourg City",
+    "country": "Luxembourg",
+    "clues": [
+      "A deep gorge splits the city into historic and modern halves.",
+      "Home to EU institutions and medieval castle ruins."
+    ],
+    "fun_fact": [
+      "The city has the highest GDP per capita in the world.",
+      "Its Bock Casemates include 17 km of underground tunnels."
+    ],
+    "trivia": [
+      "A bridge here spans three arches over the Pétrusse Valley.",
+      "The local dish combines beans, pork, and potatoes."
+    ]
+  },
+  {
+    "city": "Baku",
+    "country": "Azerbaijan",
+    "clues": [
+      "Flame-shaped towers dominate a skyline by the Caspian Sea.",
+      "A medieval walled city contrasts with futuristic architecture."
+    ],
+    "fun_fact": [
+      "The city’s hills naturally leak flammable gas.",
+      "Its carpet museum is shaped like a rolled-up rug."
+    ],
+    "trivia": [
+      "A medieval bathhouse here still offers spa treatments.",
+      "The local tea is served with jam and thyme."
+    ]
+  },
+  {
+    "city": "Tbilisi",
+    "country": "Georgia",
+    "clues": [
+      "Sulfur baths and a fortress overlook a winding river.",
+      "Known for polyphonic music and amber-colored wine."
+    ],
+    "fun_fact": [
+      "The city’s name means ‘warm place’ due to its hot springs.",
+      "Its Peace Bridge is illuminated by 30,000 LED lights nightly."
+    ],
+    "trivia": [
+      "A cable car connects the Old Town to a giant Motherland statue.",
+      "The local cheese bread is baked in clay ovens."
+    ]
+  },
+  {
+    "city": "Kingston",
+    "country": "Jamaica",
+    "clues": [
+      "A colonial Devon House serves tropical ice cream flavors.",
+      "Birthplace of a music genre blending ska and rocksteady."
+    ],
+    "fun_fact": [
+      "The city’s Bob Marley Museum was his former home and studio.",
+      "Its Blue Mountains produce some of the world’s most expensive coffee."
+    ],
+    "trivia": [
+      "A beach here glows at night due to bioluminescent plankton.",
+      "The local jerk seasoning includes Scotch bonnet peppers."
+    ]
+  }
+
 ]

@@ -14,4 +14,4 @@ session.query(Destination).delete()
 
 session.commit()
 
-print("All rows from the 'User' table have been deleted successfully")
+print("All rows from the tables have been deleted successfully")
