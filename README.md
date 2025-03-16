@@ -1,73 +1,72 @@
-**📌 Project Documentation – GlobeTrotter**
+****🌍 ✈️ GlobeTrotter – The Ultimate Travel Trivia Game****
 
+🚀 Test your geography knowledge! Guess destinations based on clues, use hints wisely, and compete for the highest score!
 
-A step-by-step guide to understanding the backend architecture of my project.
+**🛠 Tech Stack**
 
-**Tech Stack**
-_Backend_
-Backend Framework: Sanic (Fast, async Python web framework)
+**Backend**
+Framework: Sanic (Fast, async Python web framework)
 Database: PostgreSQL (Relational Database)
-ORM: SQLAlchemy (For database interaction)
+ORM: SQLAlchemy (For seamless database interactions)
 API Format: REST API with JSON payloads
 
 
+****🎮 Game Flow (Backend Process)****
 
+_**👤 User Creation :**_
 
-**🚀 How the Game Works (Backend Flow)**
+1️⃣ Player enters a username (min: 8, max: 20 characters).
+2️⃣ Backend stores user details in PostgreSQL.
+3️⃣ Returns a unique user ID to track game progress.
 
+_**❓ Fetching a New Question :**_
 
-_User Creation_
+1️⃣ The game requests a new question from the backend.
+2️⃣ Backend selects clues from the database.
+3️⃣ Sends a list of clues and four answer options.
 
-The user enters a username (min length=8 and max length=20)
-Backend stores the user in PostgreSQL.
-Returns a user ID to track progress.
+_**✅ Answer Submission & Validation :**_
 
-_Fetching a New Question_
+1️⃣ User selects an answer.
+2️⃣ Backend validates the answer & updates the score.
+3️⃣ Returns correct/incorrect status.
+4️⃣ If correct, a fun fact is included in the response.
 
-The game requests a new question.
-The backend selects respective clues from the database.
-Sends a list of clues and 4 options.
+_**📊 Fetching User Score :**_
 
-_Answer Submission & Validation_
+1️⃣ Frontend requests the user’s current score.
+2️⃣ Backend fetches score data from the database.
 
-User selects an answer.
-Backend validates the answer and updates the score.
-Returns whether the answer was correct or incorrect.
-If correct, a fun fact is included in the response.
+_**💡 Hint System :**_
 
-_Fetching User Score_
-
-The frontend requests the user’s current score.
-The backend fetches score data from the database.
-
-_Hint System_
-
-User can request a hint.
-The backend returns a trivia hint for the current question.
+1️⃣ User can request a hint for help.
+2️⃣ Backend returns a trivia hint related to the question.
 
 
 
+****🌐 API Endpoints****
 
-**Endpoints**
+_**Method	Endpoint	Description**_
 
-POST /users/create_user
-POST /game/question
-POST /game/correct_answer
-GET /game/score?user_id=1
-GET /game/hint?clue_id=8
-
-
-
-
-**Game Rules**
-
-You will be given clues to guess a destination.
-You can use 1 hint.
-Select the correct answer from multiple options.
+POST	/users/create_user	Create a new user
+POST	/game/question	Fetch a new question with clues & options
+POST	/game/correct_answer	Validate answer & update score
+GET	/game/score?user_id={id}	Retrieve user score
+GET	/game/hint?clue_id={id}	Fetch a hint for the current question
 
 
-**Scoring System**
+****🎯 Game Rules****
 
-+10 points if you guess correctly without additional hint.
-+5 points if you guess correctly with 1 hint.
--5 points if you answer incorrectly.
+🔹 Guess the destination using provided clues.
+🔹 Use up to one hint (but it reduces your score).
+🔹 Select the correct answer from multiple options.
+
+****🏆 Scoring System****
+
+✅ Correct Answer (No Hint) → +10 points
+✅ Correct Answer (With 1 Hint) → +5 points
+❌ Incorrect Answer → -5 points
+
+
+💡 Pro Tip: Try to guess without hints to maximize your score!
+
