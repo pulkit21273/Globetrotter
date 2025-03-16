@@ -13,7 +13,7 @@
 
 Due to inactivity, it will spin down and may take a few seconds when used after a certain time (one-time up duration).  
 
-**🚀 Please don't consider it as an issue, as I am using a Free hosting plan.**
+**Please don't consider it as an issue, as I am using a Free hosting plan.**
 
 ----------------------------------------------------------------------------------
 
