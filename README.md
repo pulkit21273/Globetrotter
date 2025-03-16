@@ -98,19 +98,34 @@ GET /game/score?user_id={id} → Retrieve user score
 GET /game/hint?clue_id={id} → Fetch a hint for the current question
 
 
+----------------------------------------------------------------------------------
+
+
+
+**🗂 Tables Created**
+- users – Stores user data (ID, username, scores
+- destinations – Stores destinations (city, country)
+- clues – Stores clues to guess destinations
+- fun_facts – Stores fun facts about each destination
+- trivia – Stores trivia (extra hints) about each destination
+
+Storing Trivia, Clues, Funfacts in separate tables **enhances scalability** by allowing easy extension of features—for eg, adding an **image_clues** table without modifying existing structures.  This also helps maintain data clarity, avoid redundancy, and optimize retrieval based on its specific use case in the game.
+
+----------------------------------------------------------------------------------
+
 
 
 
 **Frontend :**
 
 🚀 Tech Stack
-- 1️⃣ Framework: Next.js (React-based, SSR & ISR support)
-- 2️⃣ State Management: Zustand (Lightweight global state management)
-- 3️⃣ UI Components: ShadCN/UI (Pre-built components with Tailwind)
-- 4️⃣ Styling: Tailwind CSS (Utility-first CSS framework)
-- 5️⃣ Animations & Effects: Confetti React (For game win effects)
-- 6️⃣ API Calls: Fetch API (For communication with Sanic backend)
-- 7️⃣ Routing: Next.js App Router ((user)/[userId]/(routes)/game/page.tsx)
-- 8️⃣ Hooks: React Hooks (useState, useEffect, useCallback)
+- Framework: Next.js (React-based, SSR & ISR support)
+- State Management: Zustand (Lightweight global state management)
+- UI Components: ShadCN/UI (Pre-built components with Tailwind)
+- Styling: Tailwind CSS (Utility-first CSS framework)
+- Animations & Effects: Confetti React (For game win effects)
+- API Calls: Fetch API (For communication with Sanic backend)
+- Routing: Next.js App Router ((user)/[userId]/(routes)/game/page.tsx)
+- Hooks: React Hooks (useState, useEffect, useCallback)
 
 
