@@ -82,19 +82,19 @@ _**💡 Hint System :**_
 
 _**Method	Endpoint	Description**_
 
-🟡 1. User Creation
+1. User Creation
 POST /users/create_user → Create a new user
 
-🔵 2. Fetching a New Question
+2. Fetching a New Question
 POST /game/question → Fetch a new question with clues & options
 
-🟢 3. Answer Submission & Validation
+3. Answer Submission & Validation
 POST /game/correct_answer → Validate answer & update score
 
-🟠 4. Fetching User Score
+4. Fetching User Score
 GET /game/score?user_id={id} → Retrieve user score
 
-🔴 5. Hint System
+5. Hint System
 GET /game/hint?clue_id={id} → Fetch a hint for the current question
 
 
