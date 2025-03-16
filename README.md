@@ -11,11 +11,12 @@
 - Use up to one hint (but it reduces your score).  
 - Select the correct answer from multiple options.  
 
+
 ****🏆 Scoring System****
 
-✅ Correct Answer (No Hint) → +10 points
-✅ Correct Answer (With 1 Hint) → +5 points
-❌ Incorrect Answer → -5 points
+- ✅ Correct Answer (No Hint) → +10 points
+- ✅ Correct Answer (With 1 Hint) → +5 points
+- ❌ Incorrect Answer → -5 points
 
 
 💡 Pro Tip: Try to guess without hints to maximize your score!
