@@ -125,24 +125,6 @@ Storing Trivia, Clues, Funfacts in separate tables **enhances scalability** by a
 
 
 
-----------------------------------------------------------------------------------
-
-
-
-
-**Frontend :**
-
-🚀 Tech Stack
-- Framework: Next.js (React-based, SSR & ISR support)
-- State Management: Zustand (Lightweight global state management)
-- UI Components: ShadCN/UI (Pre-built components with Tailwind)
-- Styling: Tailwind CSS (Utility-first CSS framework)
-- Animations & Effects: Confetti React (For game win effects)
-- API Calls: Fetch API (For communication with Sanic backend)
-- Routing: Next.js App Router ((user)/[userId]/(routes)/game/page.tsx)
-- Hooks: React Hooks (useState, useEffect, useCallback)
-
-
 
 ----------------------------------------------------------------------------------
 
