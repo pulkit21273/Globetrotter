@@ -2,7 +2,7 @@ from pydantic import BaseModel, validator, ValidationError, constr
 from typing import Optional
 
 class CreateUserPayload(BaseModel):
-    username: constr(min_length=8, max_length=20)  # Limiting username length between 8 and 20 characters
+    username: constr(min_length=4, max_length=20)  # Limiting username length between 8 and 20 characters
 
     @validator('username')
     def validate_username(cls, v):

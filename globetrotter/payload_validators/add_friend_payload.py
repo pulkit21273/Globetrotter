@@ -3,7 +3,7 @@ from typing import Optional
 
 class AddFriendPayload(BaseModel):
     user_id: int
-    friend_username: constr(min_length=8, max_length=20)  # Limiting username length between 8 and 20 characters
+    friend_username: constr(min_length=4, max_length=20)  # Limiting username length between 8 and 20 characters
 
     @validator('user_id')
     def validate_user_id(cls, v):
