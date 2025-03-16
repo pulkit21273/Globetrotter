@@ -3,8 +3,8 @@
 
 DOCUMENTATION (Backend + Frontend)
 
-**Backend hosted link :** https://globetrotter-l7o0.onrender.com
-**Frontend hosted link :** https://globetrotter-psi-smoky.vercel.app/16
+- **Backend hosted link :** https://globetrotter-l7o0.onrender.com
+- **Frontend hosted link :** https://globetrotter-psi-smoky.vercel.app/16
 
 
 ----------------------------------------------------------------------------------
