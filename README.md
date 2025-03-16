@@ -1,6 +1,30 @@
 ****🌍 ✈️ GlobeTrotter – The Ultimate Travel Trivia Game****
 
+
+
 🚀 Test your geography knowledge! Guess destinations based on clues, use hints wisely, and compete for the highest score!
+
+
+****🎯 Game Rules****
+
+🔹 Guess the destination using provided clues.
+🔹 Use up to one hint (but it reduces your score).
+🔹 Select the correct answer from multiple options.
+
+****🏆 Scoring System****
+
+✅ Correct Answer (No Hint) → +10 points
+✅ Correct Answer (With 1 Hint) → +5 points
+❌ Incorrect Answer → -5 points
+
+
+💡 Pro Tip: Try to guess without hints to maximize your score!
+
+
+
+
+
+
 
 **🛠 Tech Stack**
 
@@ -9,6 +33,11 @@ Framework: Sanic (Fast, async Python web framework)
 Database: PostgreSQL (Relational Database)
 ORM: SQLAlchemy (For seamless database interactions)
 API Format: REST API with JSON payloads
+
+
+
+
+
 
 
 ****🎮 Game Flow (Backend Process)****
@@ -44,6 +73,9 @@ _**💡 Hint System :**_
 
 
 
+
+
+
 ****🌐 API Endpoints****
 
 _**Method	Endpoint	Description**_
@@ -55,18 +87,5 @@ GET	/game/score?user_id={id}	Retrieve user score
 GET	/game/hint?clue_id={id}	Fetch a hint for the current question
 
 
-****🎯 Game Rules****
 
-🔹 Guess the destination using provided clues.
-🔹 Use up to one hint (but it reduces your score).
-🔹 Select the correct answer from multiple options.
-
-****🏆 Scoring System****
-
-✅ Correct Answer (No Hint) → +10 points
-✅ Correct Answer (With 1 Hint) → +5 points
-❌ Incorrect Answer → -5 points
-
-
-💡 Pro Tip: Try to guess without hints to maximize your score!
 
