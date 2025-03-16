@@ -6,9 +6,9 @@
 
 
 ****🎯 Game Rules****
-> Guess the destination using provided clues.
-> Use up to one hint (but it reduces your score).
-> Select the correct answer from multiple options.
+-Guess the destination using provided clues.
+-Use up to one hint (but it reduces your score).
+-Select the correct answer from multiple options.
 
 ****🏆 Scoring System****
 
