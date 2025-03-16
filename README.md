@@ -66,7 +66,7 @@ Due to inactivity, it will spin down and may take a few seconds when used after 
 
 _**👤 User Creation :**_
 
-- 1️⃣ Player enters a username (min: 8, max: 20 characters).
+- 1️⃣ Player enters a username (min: 4, max: 20 characters).
 - 2️⃣ Backend stores user details in PostgreSQL.
 - 3️⃣ Returns a unique user ID to track game progress.
 
