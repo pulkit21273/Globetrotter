@@ -30,10 +30,10 @@
 **🛠 Tech Stack**
 
 **Backend**
-Framework: Sanic (Fast, async Python web framework)
-Database: PostgreSQL (Relational Database)
-ORM: SQLAlchemy (For seamless database interactions)
-API Format: REST API with JSON payloads
+- Framework: Sanic (Fast, async Python web framework)
+- Database: PostgreSQL (Relational Database)
+- ORM: SQLAlchemy (For seamless database interactions)
+- API Format: REST API with JSON payloads
 
 
 
@@ -45,32 +45,32 @@ API Format: REST API with JSON payloads
 
 _**👤 User Creation :**_
 
-1️⃣ Player enters a username (min: 8, max: 20 characters).
-2️⃣ Backend stores user details in PostgreSQL.
-3️⃣ Returns a unique user ID to track game progress.
+- 1️⃣ Player enters a username (min: 8, max: 20 characters).
+- 2️⃣ Backend stores user details in PostgreSQL.
+- 3️⃣ Returns a unique user ID to track game progress.
 
 _**❓ Fetching a New Question :**_
 
-1️⃣ The game requests a new question from the backend.
-2️⃣ Backend selects clues from the database.
-3️⃣ Sends a list of clues and four answer options.
+- 1️⃣ The game requests a new question from the backend.
+- 2️⃣ Backend selects clues from the database.
+- 3️⃣ Sends a list of clues and four answer options.
 
 _**✅ Answer Submission & Validation :**_
 
-1️⃣ User selects an answer.
-2️⃣ Backend validates the answer & updates the score.
-3️⃣ Returns correct/incorrect status.
-4️⃣ If correct, a fun fact is included in the response.
+- 1️⃣ User selects an answer.
+- 2️⃣ Backend validates the answer & updates the score.
+- 3️⃣ Returns correct/incorrect status.
+- 4️⃣ If correct, a fun fact is included in the response.
 
 _**📊 Fetching User Score :**_
 
-1️⃣ Frontend requests the user’s current score.
-2️⃣ Backend fetches score data from the database.
+- 1️⃣ Frontend requests the user’s current score.
+- 2️⃣ Backend fetches score data from the database.
 
 _**💡 Hint System :**_
 
-1️⃣ User can request a hint for help.
-2️⃣ Backend returns a trivia hint related to the question.
+- 1️⃣ User can request a hint for help.
+- 2️⃣ Backend returns a trivia hint related to the question.
 
 
 
