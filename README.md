@@ -123,6 +123,8 @@ GET /game/hint?clue_id={id} → Fetch a hint for the current question
 
 Storing Trivia, Clues, Funfacts in separate tables **enhances scalability** by allowing easy extension of features—for eg, adding an **image_clues** table without modifying existing structures.  This also helps maintain data clarity, avoid redundancy, and optimize retrieval based on its specific use case in the game.
 
+
+
 ----------------------------------------------------------------------------------
 
 
@@ -139,5 +141,16 @@ Storing Trivia, Clues, Funfacts in separate tables **enhances scalability** by a
 - API Calls: Fetch API (For communication with Sanic backend)
 - Routing: Next.js App Router ((user)/[userId]/(routes)/game/page.tsx)
 - Hooks: React Hooks (useState, useEffect, useCallback)
+
+
+
+----------------------------------------------------------------------------------
+
+
+
+**Globetrotter dataset JSON generation :**
+
+I have used few-shot and one-shot methods in GPT3.5 to generate unique and accurate dataset for the game, and along with that I allowed it to access the internet also to maintain fact-correctness.
+
 
 
