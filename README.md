@@ -99,3 +99,18 @@ GET /game/hint?clue_id={id} → Fetch a hint for the current question
 
 
 
+
+
+**Frontend :**
+
+🚀 Tech Stack
+- 1️⃣ Framework: Next.js (React-based, SSR & ISR support)
+- 2️⃣ State Management: Zustand (Lightweight global state management)
+- 3️⃣ UI Components: ShadCN/UI (Pre-built components with Tailwind)
+- 4️⃣ Styling: Tailwind CSS (Utility-first CSS framework)
+- 5️⃣ Animations & Effects: Confetti React (For game win effects)
+- 6️⃣ API Calls: Fetch API (For communication with Sanic backend)
+- 7️⃣ Routing: Next.js App Router ((user)/[userId]/(routes)/game/page.tsx)
+- 8️⃣ Hooks: React Hooks (useState, useEffect, useCallback)
+
+
