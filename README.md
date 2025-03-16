@@ -5,6 +5,18 @@
 🚀 Test your geography knowledge! Guess destinations based on clues, use hints wisely, and compete for the highest score!
 
 
+----------------------------------------------------------------------------------
+
+## 🚨 MESSAGE FROM RENDER (Backend Host) 🚨  
+
+### **⚠️ Your free instance will spin down with inactivity, which can delay requests by 50 seconds or more.**  
+
+Due to inactivity, it will spin down and may take a few seconds when used after a certain time (one-time up duration).  
+
+**🚀 Please don't consider it as an issue, as I am using a Free hosting plan.**
+
+----------------------------------------------------------------------------------
+
 🎯 Game Rules  
 
 - Guess the destination using provided clues.  
