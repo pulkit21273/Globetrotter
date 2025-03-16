@@ -5,10 +5,11 @@
 🚀 Test your geography knowledge! Guess destinations based on clues, use hints wisely, and compete for the highest score!
 
 
-****🎯 Game Rules****
--Guess the destination using provided clues.
--Use up to one hint (but it reduces your score).
--Select the correct answer from multiple options.
+🎯 Game Rules  
+
+- Guess the destination using provided clues.  
+- Use up to one hint (but it reduces your score).  
+- Select the correct answer from multiple options.  
 
 ****🏆 Scoring System****
 
