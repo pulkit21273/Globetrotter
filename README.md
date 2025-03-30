@@ -22,7 +22,7 @@ DOCUMENTATION (Backend + Frontend)
 
 Due to inactivity, it will spin down and may take a few seconds when used after a certain time (one-time up duration).  
 
-**Please don't consider it as an issue, as I am using a Free hosting plan.**
+**Please don't consider it as an issue, as I am using a Free hosting plan. If it shows a message that backend is not running, please reload 1-2 times after inputting the name, as it will take a minute to start the backend server if trying after a long time.**
 
 ----------------------------------------------------------------------------------
 
@@ -66,7 +66,7 @@ Due to inactivity, it will spin down and may take a few seconds when used after 
 
 _**👤 User Creation :**_
 
-- 1️⃣ Player enters a username (min: 8, max: 20 characters).
+- 1️⃣ Player enters a username (min: 4, max: 20 characters).
 - 2️⃣ Backend stores user details in PostgreSQL.
 - 3️⃣ Returns a unique user ID to track game progress.
 
