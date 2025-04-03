@@ -4,6 +4,8 @@ from typing import List, Optional
 
 class FetchQuestionPayload(BaseModel):
     destination_ids: conlist(int, min_items=0) 
+    user_id: int
+    game_session_id: int
 
     @validator("destination_ids")
     def validate_destination_ids(cls, v):

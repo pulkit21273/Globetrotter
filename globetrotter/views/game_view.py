@@ -2,7 +2,7 @@ from sanic import Blueprint, response
 from sanic.response import json
 from sqlalchemy.orm import sessionmaker
 from database.db import engine
-from models import Destination, Clue, Trivia, FunFact, User
+from models import Destination, Clue, Trivia, FunFact, User, GameSession
 from controllers import GameController
 from sqlalchemy import func
 from payload_validators import FetchQuestionPayload, CheckCorrectAnswerPayload
@@ -24,6 +24,13 @@ async def add_cors_headers(request, response):
 async def handle_options(request):
     return response.empty()
 
+# @game_bp.route("/question", methods=["POST", "OPTIONS"])
+# @handle_exceptions
+# async def get_game_session(request):
+#     if request.method == "OPTIONS":
+#         return await handle_options(request)
+
+
 
 @game_bp.route("/question", methods=["POST", "OPTIONS"])
 @handle_exceptions
@@ -31,7 +38,21 @@ async def fetch_question(request):
     if request.method == "OPTIONS":
         return await handle_options(request)
 
+    
     payload = FetchQuestionPayload(**request.json)
+    user_id = payload.user_id
+    game_session_id = payload.game_session_id
+
+    game_session = await GameController.get_or_create_game_session(user_id=user_id)
+    
+    if not game_session:
+        return await GameController.get_or_create_game_session(user_id=user_id)
+
+    if game_session.is_completed:
+        return json({
+            "error": "session already completed, create a new one !"
+        })
+
     already_done_destination_ids = payload.destination_ids
 
     destination = session.query(Destination).filter(
